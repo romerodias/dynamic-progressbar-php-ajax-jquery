@@ -2,9 +2,9 @@ $(document).ready(function() {
 
 	/* Configurações de cores da barra */
 	var barColor = [
-		{"MIN": 0, 	"MAX": 30, 	"BGCOLOR": "green", 	"FONTCOLOR": "white"	},
-		{"MIN": 31, "MAX": 60, 	"BGCOLOR": "yellow", 	"FONTCOLOR": "black"	},
-		{"MIN": 60, "MAX": 100, "BGCOLOR": "red", 		"FONTCOLOR": "white"	}
+		{"MIN": 0,  "MAX": 30, 	"BGCOLOR": "green",  "FONTCOLOR": "white" },
+		{"MIN": 31, "MAX": 60, 	"BGCOLOR": "yellow", "FONTCOLOR": "black" },
+		{"MIN": 60, "MAX": 100, "BGCOLOR": "red",    "FONTCOLOR": "white" }
 	];
 	
 	/* Manipula as cores da barra */
