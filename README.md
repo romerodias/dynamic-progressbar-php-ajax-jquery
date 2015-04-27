@@ -1,5 +1,5 @@
 # dynamic-progressbar-php-ajax-jquery
-This is an example to implementing a dynamic progress barra using Ajax, PHP and jQuery.
+This is an example to implementing a dynamic progress bar using Ajax, PHP and jQuery.
 
 
 # Demo
