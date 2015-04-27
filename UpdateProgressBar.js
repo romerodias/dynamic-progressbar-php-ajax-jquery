@@ -1,3 +1,6 @@
+/**
+ * @author Romero Dias
+ */
 $(document).ready(function() {
 
 	/* Configurações de cores da barra */
