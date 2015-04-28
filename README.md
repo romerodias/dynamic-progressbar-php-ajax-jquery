@@ -3,6 +3,8 @@ This is an example to implementing a dynamic progress bar using Ajax, PHP and jQ
 
 # Using
 
+Let's create a progress bar for a div id="sla-bar"
+
 Create a simple progress bar
 ```
 $("#sla-bar").pb();
