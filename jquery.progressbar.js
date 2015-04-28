@@ -55,7 +55,7 @@ $.extend($.fn, {
 					var bar = me;
 					var time = data.SLA;
 					$(bar).html(time + "%");
-					$(bar).css({ "width" : time + "px"});
+					$(bar).css({ "width" : time+"px"});
 					defineColor(time, bar);
 				}
 			}
