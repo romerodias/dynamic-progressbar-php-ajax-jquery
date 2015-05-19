@@ -40,3 +40,7 @@ $("#sla-bar").pb({
 
 # Demo
 http://rdtecnologia.com.br/dynamic-progressbar-php-ajax-jquery/
+
+Feel free to copy and use this plugin
+
+Don't forget the credits to me ;-)
