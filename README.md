@@ -10,7 +10,7 @@ Create a simple progress bar. By default the plugin consider that you have a php
 $("#sla-bar").pb();
 ```
 
-Create a progress bar passing custom url
+Create a progress bar passing a custom url
 ```
 $("#sla-bar").pb({
 	url: "sla/getvalue.php"
